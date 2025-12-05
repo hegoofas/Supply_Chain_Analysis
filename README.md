@@ -59,4 +59,6 @@ The 3 pages of the report provide insights in three main areas:
 - README documentation  
 
 ## 🔗 Project Link
+-https://www.linkedin.com/posts/ibrahim-abdulghfar-a0b13a364_powerbi-dataanalysis-supplychain-activity-7362572652596670465-LbG_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFpuyCsBNij9rn_9jYrSPVjIHEViYJtJTQY
 👉 (ضع لينك الريبو بعد الرفع)
+
